@@ -1,0 +1,22 @@
+ # Ignore build output directories
+bin/
+obj/
+
+# Ignore .NET Core temporary files
+*.user
+*.suo
+*.userosscache
+*.dbmdl
+*.jfm
+
+# Ignore Visual Studio temporary files
+.vs/
+*.pidb
+*.svclog
+*.scc
+
+# Ignore packages directory
+packages/
+
+# Ignore test results directory
+TestResults/
